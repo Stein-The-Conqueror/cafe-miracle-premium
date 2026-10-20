@@ -1,0 +1,5 @@
+Café Miracle — premium multi-page website concept
+
+Open index.html in a browser. Keep all five HTML pages and the assets folder in their existing locations.
+Use the navigation to explore Menu, COSMOS, Our story, and Visit.
+For design scope and launch caveats, see ../README.md.
